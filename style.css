@@ -1,0 +1,60 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+header{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+main{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+}
+.l{
+    margin: 0%;
+    padding: 0%;
+    height: 700px;
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+}
+.p{
+    height: 680px;
+    width:20%;
+    background-color: coral;
+}
+.chat{
+    height: 80px;
+    width: 100%;
+    background-color:  tomato;
+    padding: 0%;
+    margin: 0%;
+
+}
+.wid{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 15px;
+
+}
+.bor{
+    margin: 15px;
+    height: 470px;
+    width: 97.5%;
+    background-color: rgb(255, 255, 255);
+    border: 1px tomato solid;
+
+
+}
+img{
+    border-radius: 50%;
+
+}
